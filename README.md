@@ -2,6 +2,8 @@
 
 My personal collection of Neovim plugins, choice of package manager, themes, and icons.
 
+![]("./screenshot.png")
+
 ## Plugins
 - Catppuccin (Theme)
 - Mason (Linter, Formatter, and LSP Manager)
