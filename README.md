@@ -2,7 +2,8 @@
 
 My personal collection of Neovim plugins, choice of package manager, themes, and icons.
 
-![]("screenshot.png")
+
+![](./screenshot.png)
 
 ## Plugins
 - Catppuccin (Theme)
